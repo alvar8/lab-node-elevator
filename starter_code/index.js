@@ -11,14 +11,3 @@ elevator.call(Pepe);
 elevator.call(Juan);
 
 elevator.start();
-
-
-
-
-
-// elevator.floorUp();
-// elevator.floorUp();
-// elevator.floorUp();
-// elevator.floorUp();
-// elevator.floorUp();
-// elevator.floorUp();
